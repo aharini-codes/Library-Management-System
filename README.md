@@ -78,7 +78,7 @@ git clone https://github.com/aharini-codes/Library-Management-System.git
 ## 👩‍💻 Author
 **Harini**  
 - GitHub: https://github.com/aharini-codes  
-- LinkedIn: (Add your LinkedIn link here)  
+- LinkedIn: www.linkedin.com/in/harini-a-344249384
 
 ---
 
